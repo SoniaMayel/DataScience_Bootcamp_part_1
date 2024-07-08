@@ -24,3 +24,5 @@ How long can we expect the experiment to last?
     
     - 🐍 Requires Python with libraries Pandas, Seaborn, and Matplotlib.
     - 📓 Utilizes Jupyter Notebooks for each chapter to facilitate learning.
+    - Sample T-test
+    - Chi-Squared Test
